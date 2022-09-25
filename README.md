@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Kumina
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning IT
+- 📫 How to reach me ->
+-    ✉️ Mail: kumina@kumina.ml
+-    🟣 Discord: Kumina#5768
