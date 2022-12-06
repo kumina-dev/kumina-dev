@@ -2,5 +2,5 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning IT
 - 📫 How to reach me ->
--    ✉️ Mail: kumina@kumina.ml
+-    ✉️ Mail: kumina@kumina.wtf
 -    🟣 Discord: Kumina#5768
