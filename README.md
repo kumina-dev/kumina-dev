@@ -1,6 +1,6 @@
 # Hello <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/daftpunktocat-thomas.gif" width="32">
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://instagram.com/kuminadev)](https://instagram.com/kuminadev)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://instagram.com/ville.m.syrjala)](https://instagram.com/ville.m.syrjala)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/kum1na)](https://twitter.com/kum1na)
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white&link=mailto:kumina@kumina.wtf)](mailto:kumina@kumina.wtf)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kumina-dev)
