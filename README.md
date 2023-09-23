@@ -5,6 +5,8 @@
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white&link=mailto:kumina@kumina.wtf)](mailto:kumina@kumina.wtf)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kumina-dev)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/650eebb3d5295d7a813a0f6a?variant=dark)](https://roadmap.sh)
+
 <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=kumina-dev&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=EB545400&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&currStreakNum=EBEBEB&dates=AAAAAA&ring=9204C9&fire=9204C9">
 
 <div align="left" width="100%">
@@ -37,7 +39,7 @@
 ## 📱 Me on media
 
 <div>
-  <a href="https://instagram.com/kuminadev"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+  <a href="https://instagram.com/villemsyrjala"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
   <a href="https://twitter.com/kum1na"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
   <a href="https://discord.com/users/961851861063827497"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 </div>
