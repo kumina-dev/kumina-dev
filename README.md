@@ -57,7 +57,7 @@
 <div width="100%">
 <img src="https://github.com/kumina-dev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/kumina-dev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/650eebb3d5295d7a813a0f6a?variant=dark)](https://roadmap.sh)
+<img src="https://api.roadmap.sh/v1-badge/tall/650eebb3d5295d7a813a0f6a?variant=dark" />
 
 <br />
 <br />
