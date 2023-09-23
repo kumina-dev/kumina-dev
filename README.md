@@ -5,8 +5,6 @@
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white&link=mailto:kumina@kumina.wtf)](mailto:kumina@kumina.wtf)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kumina-dev)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/650eebb3d5295d7a813a0f6a?variant=dark)](https://roadmap.sh)
-
 <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=kumina-dev&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=EB545400&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&currStreakNum=EBEBEB&dates=AAAAAA&ring=9204C9&fire=9204C9">
 
 <div align="left" width="100%">
@@ -59,6 +57,7 @@
 <div width="100%">
 <img src="https://github.com/kumina-dev/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/kumina-dev/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/650eebb3d5295d7a813a0f6a?variant=dark)](https://roadmap.sh)
 
 <br />
 <br />
