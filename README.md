@@ -6,10 +6,6 @@
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white&link=mailto:kumina@kumina.wtf)](mailto:kumina@kumina.wtf)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kumina-dev)
 
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=kumina-dev&theme=transparent&hide_border=true&mode=weekly">
-
-<div align="left" width="100%">
-
 ## 🧐 About
 
 - I'm a 17-year-old software enthusiast from Finland with a passion for coding. My journey in the world of programming has been an exciting one, and I'm excited to share it with you.
@@ -23,15 +19,12 @@
 
 ### Development
 <img src="https://skillicons.dev/icons?i=js,java,py,c,cpp,cs,html,css&theme=dark" />
-</div>
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</div>
 
 ### Services
 <img src="https://skillicons.dev/icons?i=github,cloudflare&theme=dark" />
-</div>
 
 <br />
 
