@@ -12,8 +12,6 @@ Hello, I'm Ville, a 17-year-old software enthusiast from Finland. I'm a versatil
 
 ## My Toolbox
 
-Here are some of the tools and languages I use:
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,6 +24,11 @@ Here are some of the tools and languages I use:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Databases
+
+![MariaDB/MySQL](https://img.shields.io/badge/MariaDB%2FMySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Get in Touch
 
