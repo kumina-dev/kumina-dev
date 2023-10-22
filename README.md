@@ -25,9 +25,9 @@ Hello, I'm Ville, a 17-year-old software enthusiast from Finland. I'm a versatil
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Databases
+### SQL
 
-![MariaDB/MySQL](https://img.shields.io/badge/MariaDB%2FMySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Get in Touch
