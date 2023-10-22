@@ -26,4 +26,4 @@ Feel free to reach out to me:
 
 - 📧 [Email](mailto:kumina@kumina.wtf)
 - 💬 [LinkedIn](https://www.linkedin.com/in/ville-syrjala/)
-- ☕ [Support me on Ko-Fi](https://ko-fi.com/kumina)
+- ☕ [Ko-Fi](https://ko-fi.com/kumina)
