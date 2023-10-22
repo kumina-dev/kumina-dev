@@ -24,6 +24,6 @@ Here are some of the tools and languages I use:
 
 Feel free to reach out to me:
 
-- 📧 Email: kumina@kumina.wtf
-- 💬 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ville-syrjala/)
+- 📧 [Email](mailto:kumina@kumina.wtf)
+- 💬 [LinkedIn](https://www.linkedin.com/in/ville-syrjala/)
 - ☕ [Support me on Ko-Fi](https://ko-fi.com/kumina)
