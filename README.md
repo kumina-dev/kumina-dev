@@ -39,8 +39,8 @@ Hello, I'm Ville, a 17-year-old software enthusiast from Finland. I'm a versatil
 
 Feel free to reach out to me:
 
-- 📧 [Email](mailto:kumina@kumina.wtf)
-- 💬 [LinkedIn](https://www.linkedin.com/in/ville-syrjala/)
+- 📧 [Email](mailto:ville@kumina.dev)
+- 💬 [LinkedIn](https://www.linkedin.com/in/kumina.dev/)
 
 ---
 
