@@ -4,7 +4,6 @@
 
 # Hello and Welcome 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumina-dev&bg_color=603fef&title_color=f3f3f3&text_color=dddddd&show_icons=true&hide_border=true&border_radius=10&theme=radical)](https://github.com/kumina-dev)
 [![Discord Presence](https://lanyard.cnrad.dev/api/961851861063827497?bg=603fef&borderRadius=10px&hideStatus=true&showDisplayName=true&hideTimestamp=true&idleMessage=404%20Not%20Found)](https://discord.com/users/961851861063827497)
 
 ## About Me
