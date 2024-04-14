@@ -1,10 +1,11 @@
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-603fef?style=for-the-badge&labelColor=603fef&logo=twitter&logoColor=white&link=https://twitter.com/kum1na)](https://twitter.com/kum1na)
-[![Followers](https://img.shields.io/github/followers/kumina-dev?style=for-the-badge&labelColor=603fef&color=603fef)](https://github.com/kumina-dev)
-[![Stars](https://img.shields.io/github/stars/kumina-dev?style=for-the-badge&labelColor=603fef&color=603fef)](https://github.com/kumina-dev)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-111d32?style=for-the-badge&labelColor=111d32&logo=twitter&logoColor=white&link=https://twitter.com/Kum1na)](https://twitter.com/kum1na)
+
+![GitHub followers](https://img.shields.io/github/followers/kumina-dev?style=for-the-badge&logo=github&logoColor=white&labelColor=%23111d32&color=%23111d32)
+![GitHub User's stars](https://img.shields.io/github/stars/kumina-dev?style=for-the-badge&logo=github&logoColor=white&labelColor=%23111d32&color=%23111d32)
 
 # Hello and Welcome 👋
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/961851861063827497?bg=603fef&borderRadius=10px&hideStatus=true&showDisplayName=true&hideTimestamp=true&idleMessage=404%20Not%20Found)](https://discord.com/users/961851861063827497)
+[![Discord Presence](https://lanyard.cnrad.dev/api/961851861063827497?bg=111d32&borderRadius=10px&hideStatus=true&showDisplayName=true&hideTimestamp=true&idleMessage=404%20Not%20Found)](https://discord.com/users/961851861063827497)
 
 ## About Me
 
