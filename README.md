@@ -1,41 +1,27 @@
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-111d32?style=for-the-badge&labelColor=111d32&logo=twitter&logoColor=white&link=https://twitter.com/Kum1na)](https://twitter.com/kum1na)
+<h1 align="center">Hi 👋, I'm Kumina</h1>
+<h3 align="center">A passionate full-stack developer from Finland</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/kumina-dev?style=for-the-badge&logo=github&logoColor=white&labelColor=%23111d32&color=%23111d32)
-![GitHub User's stars](https://img.shields.io/github/stars/kumina-dev?style=for-the-badge&logo=github&logoColor=white&labelColor=%23111d32&color=%23111d32)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumina-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kumina-dev" /> </p>
 
-# Hello and Welcome 👋
+- 🔭 I’m currently working on [kuminadev](https://github.com/kumina-dev/kuminadev)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/961851861063827497?bg=111d32&borderRadius=10px&hideStatus=true&showDisplayName=true&hideTimestamp=true&idleMessage=404%20Not%20Found)](https://discord.com/users/961851861063827497)
+- 🌱 I’m currently learning **Astro**
 
-## About Me
+- 👨‍💻 All of my projects are available at [https://kumina.dev](https://kumina.dev)
 
-Hello, I'm Ville, a 17-year-old backend developer from Finland. I'm a versatile developer with a wide range of languages like Python and PHP.
+- 📫 How to reach me **kumlna@protonmail.com**
 
-- 🌱 Currently enrolled in a vocational college
-- 💼 My goal is to work in the field of backend development and contribute to innovative projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kum1na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kum1na" height="30" width="40" /></a>
+<a href="https://instagram.com/kuminadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuminadev" height="30" width="40" /></a>
+<a href="https://discord.gg/ev6gCxEEcj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ev6gCxEEcj" height="30" width="40" /></a>
+</p>
 
-## My Toolbox
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Languages
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/kumina"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kumina" /></a></p><br><br>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-
-### Tools
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-### SQL
-
-[![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-## Get in Touch
-
-Feel free to reach out to me:
-
-- 📧 [Email](mailto:ville@kumina.dev)
-
----
-
-*If you find my work valuable, consider [buying me a energy drink](https://ko-fi.com/kumina) to support my journey.*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumina-dev&show_icons=true&theme=dark&locale=en" alt="kumina-dev" /></p>
