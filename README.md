@@ -7,9 +7,8 @@
 
 ## About Me
 
-Hello, I'm Ville, a 17-year-old backend developer from Finland. I'm a versatile developer with a wide range of languages like Python and PHP.
+Hello, I'm Ville, a 19 years old Software Developer from Finland. I'm a versatile developer with a wide range of languages like Python and TypeScript.
 
-- 🌱 Currently enrolled in a vocational college
 - 💼 My goal is to work in the field of backend development and contribute to innovative projects
 
 ## My Toolbox
@@ -17,7 +16,7 @@ Hello, I'm Ville, a 17-year-old backend developer from Finland. I'm a versatile 
 ### Languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-8993be?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/TypeScript-8993be?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### Tools
 
