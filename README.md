@@ -1,34 +1,68 @@
-[![WEBSITE](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kumina.dev)
-[![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://kumina.dev/discord)
+# Hey, I'm Ville 👋
 
-# Hello and Welcome 👋
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/961851861063827497?bg=111d32&borderRadius=10px&hideStatus=true&showDisplayName=true&hideTimestamp=true&idleMessage=404%20Not%20Found)](https://discord.com/users/961851861063827497)
-
-## About Me
-
-Hello, I'm Ville, a 19 years old Software Developer from Finland. I'm a versatile developer with a wide range of languages like Python and TypeScript.
-
-- 💼 My goal is to work in the field of backend development and contribute to innovative projects
-
-## My Toolbox
-
-### Languages
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/TypeScript-8993be?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-### Tools
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-### SQL
-
-[![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+I'm a software developer who enjoys building small tools that somehow grow into full projects.  
+Most of my work lives around **web development**, **indie projects**, and **developer tooling**.
 
 ---
 
-[![SUPPORT](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/kumina-dev)
-[![KO-FI](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kumina)
-[![PAYPAL](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kum1na)
+## 🧠 What I’m into
+
+- ⚙️ **Full-stack development** – modern frontend + solid backend basics  
+- 🧩 **Developer experience** – CLIs, utilities, monorepos, project templates  
+- 🌐 **Web tech** – TypeScript, React, Node.js, and friends  
+- 🧪 **Learning by building** – I like to test ideas by shipping something small and iterating
+
+---
+
+## 🔭 Current focus
+
+- 🛠️ Working on personal/indie projects (like “MukulaSoft” and similar experiments)
+- 📚 Improving my understanding of software architecture and maintainable codebases
+- 🧹 Cleaning up old projects and turning them into reusable starter kits
+
+---
+
+## 🛠️ Tech I use
+
+**Languages**
+
+- TypeScript / JavaScript  
+- HTML / CSS
+
+**Tools & Frameworks**
+
+- React  
+- Node.js  
+- Git & GitHub  
+- Monorepo tooling (workspaces, etc.)
+
+**Other stuff**
+
+- VS Code  
+- macOS & Windows  
+- A lot of terminal
+
+---
+
+## 📂 Pinned projects
+
+> Check out my pinned repositories below for the things I’m most happy with.  
+> I try to keep readmes clear and code reasonably clean.
+
+Some of the things you might find:
+
+- 🎨 **UI experiments** – design systems, reusable components, theming  
+- 🌐 **Web apps** – small utilities, dashboards, or playground apps  
+- 🧰 **Utilities** – scripts and tools that make my own workflow less painful
+
+---
+
+## 🤝 Reach out
+
+- 💬 Open an issue or discussion on any repo if you have questions or ideas  
+- 🧪 I’m always up for experimenting with new project ideas, refactors, or collaborations
+
+---
+
+Thanks for stopping by 👋  
+There’s probably some work-in-progress code somewhere below this line.
