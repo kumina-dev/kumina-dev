@@ -1,11 +1,9 @@
 # 👋 Hi, I’m Ville
 
-![Status](https://img.shields.io/badge/status-building%20real%20projects-brightgreen)
 ![Focus](https://img.shields.io/badge/focus-sustainable%20software-blue)
 ![Security](https://img.shields.io/badge/focus-security%20%26%20privacy-important)
 ![Code](https://img.shields.io/badge/code-TypeScript%20%7C%20React-informational)
-![Architecture](https://img.shields.io/badge/architecture-offline--first%20%7C%20clean%20domain-informational)
-![Tools](https://img.shields.io/badge/tools-git%20%7C%20pnpm%20%7C%20vite-informational)
+![Tools](https://img.shields.io/badge/tools-git%20%7C%20vite-informational)
 
 **Software Developer**  
 Building tools for sustainable studying, motivation, and long-term progress — with a strong focus on **security, privacy, and data ownership**.
