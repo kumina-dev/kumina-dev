@@ -1,72 +1,81 @@
-# 👋 Hi, I’m Ville
+# 👋 Hi, I'm Ville
 
-![Focus](https://img.shields.io/badge/focus-sustainable%20software-blue)
+![Focus](https://img.shields.io/badge/focus-practical%20software-blue)
 ![Security](https://img.shields.io/badge/focus-security%20%26%20privacy-important)
 ![Code](https://img.shields.io/badge/code-TypeScript%20%7C%20React-informational)
-![Tools](https://img.shields.io/badge/tools-git%20%7C%20vite-informational)
+![Tools](https://img.shields.io/badge/tools-Git%20%7C%20Vite%20%7C%20Next.js-informational)
 
-**Software Developer**  
-Building tools for sustainable studying, motivation, and long-term progress — with a strong focus on **security, privacy, and data ownership**.
+**Software Developer based in Finland**  
+I build practical web applications with a focus on clear architecture, privacy-aware design, and maintainable code.
 
-I'm currently building real-world software projects.
-My goal is to work toward a **junior / trainee / summer role** in software development.
-
----
-
-## 🔐 Security & Privacy Mindset
-
-I'm especially interested in building software that:
-- minimizes data collection
-- keeps user data local whenever possible
-- avoids unnecessary accounts and tracking
-- separates identity from application logic
-- treats privacy as a **design decision**, not a feature toggle
-
-Rather than adding complexity, I aim for **simple, auditable architectures** that are easier to reason about and secure by default.
+I'm currently working on real-world software projects while building a portfolio toward a **junior / trainee / summer software development role**.
 
 ---
 
-## 🧩 Key Concepts I'm Exploring
+## What I care about
 
-- Designing systems that don't punish failure
-- State modeling for long-running personal data
-- Identity abstraction and data ownership
-- MVP-driven development with clear scope boundaries
-- Offline-first applications and privacy-conscious UX
+I'm especially interested in software that is:
 
-I'm interested in building software that respects **human limits** *and* **user trust**.
+- simple enough to understand and maintain
+- privacy-conscious by default
+- built with clear boundaries between UI, data, and business logic
+- designed around real user needs instead of unnecessary complexity
+- secure because of good architecture, not because of last-minute patches
+
+I prefer practical, auditable systems over trend-driven development.
 
 ---
 
-## 🛠️ Technologies
+## What I’m building and learning
+
+Currently, I'm focusing on:
+
+- React and TypeScript web applications
+- Next.js application structure
+- authentication and identity concepts
+- offline-first and local-first application ideas
+- clean domain models and separation of concerns
+- deployment, self-hosting, Docker, and Linux server basics
+
+I'm also interested in products that support studying, motivation, personal systems, and long-term progress.
+
+---
+
+## Technologies
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
 ![React](https://img.shields.io/badge/React-000?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
 ![Vite](https://img.shields.io/badge/Vite-000?logo=vite)
 ![Git](https://img.shields.io/badge/Git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
 
-- **Frontend:** React, TypeScript, Vite
-- **Architecture:** clean domain models, separation of concerns
-- **Security mindset:** least data possible, local-first, explicit identity boundaries
-- **Tooling:** Git, GitHub
-
-I value **clear reasoning, privacy-aware design, and steady progress** over chasing trends.
-
----
-
-## 🎯 What I’m Working Toward
-
-- Building a strong, practical software development portfolio
-- Securing a **junior / trainee / summer position** in software development
-- Growing into a developer who understands **systems, people, and trust**
+- **Frontend:** React, TypeScript, Vite, Next.js
+- **Architecture:** component structure, domain models, separation of concerns
+- **Backend interests:** authentication, APIs, databases, self-hosted services
+- **Tooling:** Git, GitHub, Docker, Linux
 
 ---
 
-## 📫 Contact
+## Current goal
 
-- GitHub: you’re already here 🙂
+I'm looking for opportunities to grow as a developer through:
+
+- junior software developer roles
+- trainee positions
+- summer jobs
+- practical freelance or project-based work
+
+I'm most interested in roles where I can build real software, improve existing systems, and learn from more experienced developers.
+
+---
+
+## Contact
+
 - Email: ville.syrjala@protonmail.com
+- GitHub: you’re already here
 
 ---
 
