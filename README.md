@@ -7,33 +7,17 @@
 ![Architecture](https://img.shields.io/badge/architecture-offline--first%20%7C%20clean%20domain-informational)
 ![Tools](https://img.shields.io/badge/tools-git%20%7C%20pnpm%20%7C%20vite-informational)
 
-**Software Developer (Personal Projects)**  
+**Software Developer**  
 Building tools for sustainable studying, motivation, and long-term progress — with a strong focus on **security, privacy, and data ownership**.
 
-I’m currently completing civil service and using this time to build real-world software projects.
-My goal is to develop a strong technical foundation and prepare for future **Software Engineering (AMK)** studies, while actively working toward a **junior / trainee / summer role** in software development.
-
----
-
-## 🧠 Current Focus
-
-### AMK Survival Platform (Personal Project)
-A habit tracker designed for demanding study environments, focused on **persistence over performance**.
-
-The system is intentionally designed to avoid burnout patterns and unnecessary data exposure:
-- Minimum effort days (showing up matters)
-- Low-Power Mode for difficult weeks
-- Soul Leveling (progress based on persistence, not grinding)
-- Lightweight Identity Service with clear **user data ownership**
-- Offline-first by default — data stays on the user’s device
-
-This project is both a **personal tool I use daily** and a **portfolio project**.
+I'm currently building real-world software projects.
+My goal is to work toward a **junior / trainee / summer role** in software development.
 
 ---
 
 ## 🔐 Security & Privacy Mindset
 
-I’m especially interested in building software that:
+I'm especially interested in building software that:
 - minimizes data collection
 - keeps user data local whenever possible
 - avoids unnecessary accounts and tracking
@@ -44,15 +28,15 @@ Rather than adding complexity, I aim for **simple, auditable architectures** tha
 
 ---
 
-## 🧩 Key Concepts I’m Exploring
+## 🧩 Key Concepts I'm Exploring
 
-- Designing systems that don’t punish failure
+- Designing systems that don't punish failure
 - State modeling for long-running personal data
 - Identity abstraction and data ownership
 - MVP-driven development with clear scope boundaries
 - Offline-first applications and privacy-conscious UX
 
-I’m interested in building software that respects **human limits** *and* **user trust**.
+I'm interested in building software that respects **human limits** *and* **user trust**.
 
 ---
 
@@ -67,8 +51,7 @@ I’m interested in building software that respects **human limits** *and* **use
 - **Frontend:** React, TypeScript, Vite
 - **Architecture:** clean domain models, separation of concerns
 - **Security mindset:** least data possible, local-first, explicit identity boundaries
-- **Tooling:** Git, GitHub, pnpm
-- **Approach:** clarity, maintainability, long-term thinking
+- **Tooling:** Git, GitHub
 
 I value **clear reasoning, privacy-aware design, and steady progress** over chasing trends.
 
@@ -77,7 +60,6 @@ I value **clear reasoning, privacy-aware design, and steady progress** over chas
 ## 🎯 What I’m Working Toward
 
 - Building a strong, practical software development portfolio
-- Preparing for **Software Engineering studies (AMK)** in the coming years
 - Securing a **junior / trainee / summer position** in software development
 - Growing into a developer who understands **systems, people, and trust**
 
