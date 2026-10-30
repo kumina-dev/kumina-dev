@@ -1,56 +1,47 @@
-# Hi, I'm Ville
+# Hi, I'm Ville 👋
 
-Software developer based in Finland, focused on practical web and mobile applications.
+I'm a software developer based in Finland, focused on building reliable, usable, and maintainable software.
 
-I build projects with **React, TypeScript, Next.js, Kotlin, PostgreSQL and Docker**, with an interest in clean architecture, privacy-aware design and maintainable code.
+My work spans full-stack web development, mobile applications, backend systems, and Linux desktop environments. I enjoy turning ideas into working products, with particular attention to software architecture, usability, and privacy.
 
-I'm currently building a portfolio toward junior / trainee software development roles.
+## 🚀 Featured projects
 
----
+### [Kivo](https://github.com/kumina-dev/kivo)
+A local-first productivity application built with **React Native, Expo, TypeScript, and SQLite**.
 
-## Featured projects
+Combines task management, recurring schedules, rewards, achievements, and portable backups without requiring an online account.
 
-### Payment Surface
-A minimal payment-platform style application inspired by modern checkout and account flows.
+### [Kumina Labs](https://github.com/kumina-dev/kumina-labs)
+An independent web studio and product lab focused on personalized websites and software products.
 
-**Tech:** Next.js, TypeScript, Prisma, PostgreSQL  
-**Focus:** full-stack application structure, database modeling, authentication concepts, payment-style UI flows
+Built using **Next.js, React, TypeScript, Supabase, and Vercel**, with English and Finnish support.
 
-What this project shows:
-- building a realistic full-stack app structure
-- designing data models with Prisma and PostgreSQL
-- creating practical UI flows instead of static demo pages
-- thinking about maintainability and product boundaries
+### [Payment Surface](https://github.com/kumina-dev/payment-surface)
+A full-stack payment workflow project exploring hosted checkout, **Stripe integrations, webhook processing, PostgreSQL data modeling, and ledger records**.
 
----
+## 🛠️ Technology
 
-## What I work with
+**Languages:** TypeScript, JavaScript, Kotlin, Java, Go, PHP, SQL
 
-**Frontend:** React, TypeScript, Next.js, Vite, Tailwind CSS  
-**Backend / data:** Prisma, PostgreSQL, API design, authentication concepts  
-**Mobile:** Kotlin, Android  
-**Tools:** Git, GitHub, Docker, Linux, self-hosting basics  
-**Architecture:** clean boundaries, maintainable structure, privacy-aware systems
+**Frontend:** React, Next.js, Tailwind CSS
 
----
+**Mobile:** React Native, Expo, Android
 
-## What I'm looking for
+**Backend & Data:** Node.js, PostgreSQL, SQLite, Prisma, Supabase
 
-I'm looking for junior, trainee, internship or project-based software development opportunities where I can build real software, improve existing systems and learn from more experienced developers.
+**Tools & Infrastructure:** Git, Docker, Linux, GitHub Actions, Vercel
 
-I'm especially interested in:
-- full-stack web development
-- React / TypeScript development
-- Next.js applications
-- Kotlin / Android development
-- practical internal tools and user-focused software
+## 💼 Opportunities
 
----
+I'm interested in software development opportunities, technical collaboration, and freelance projects involving web applications, integrations, automation, and practical software solutions.
 
-## Contact
+I value clear communication, maintainable code, and building software that solves real problems.
 
-- Email: ville.syrjala@protonmail.com
-- GitHub: you're already here
+## 📫 Contact
+
+- **Email:** ville.syrjala@protonmail.com
+- **GitHub:** [@kumina-dev](https://github.com/kumina-dev)
+- **Kumina Labs:** [Website](https://paper-kumina.vercel.app)
 
 ---
 
